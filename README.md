@@ -148,10 +148,6 @@ NAND Gate
 
 NOT Gate
 
-![Screenshot 2025-03-02 103443](https://github.com/user-attachments/assets/c4f028d3-aaaa-414f-a323-04401d7dc571)
-
-![Screenshot 2025-03-02 103803](https://github.com/user-attachments/assets/0c9a8c66-ac6b-445c-9f2b-5aa8858d6563)
-
 ![Screenshot 2025-03-02 103816](https://github.com/user-attachments/assets/4c5e9108-6ca7-4e9b-b3ab-c47ba067bb0c)
 
 ![Screenshot 2025-03-02 103829](https://github.com/user-attachments/assets/94aa70f2-f47f-4dc5-8c87-5555ab1d483d)
