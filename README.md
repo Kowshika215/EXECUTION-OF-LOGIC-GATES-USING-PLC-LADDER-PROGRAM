@@ -1,10 +1,10 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
+ # NAME : Kowshika.R
+ # REGISTER NUMBER : 212224220049
+ # DEPARTMENT : IT
+ # YEAR : 1
 
  
 # Aim:
@@ -49,6 +49,22 @@ XOR Gate:
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
+
+![WhatsApp Image 2025-03-02 at 10 10 08_e4fb612d](https://github.com/user-attachments/assets/edff5ef7-5f07-4cb2-9689-776d207805a2)
+
+![WhatsApp Image 2025-03-02 at 10 10 09_4a55cbb9](https://github.com/user-attachments/assets/ceb1babc-dc28-4e11-be41-375c80b0c133)
+
+![WhatsApp Image 2025-03-02 at 10 10 09_3dbb913f](https://github.com/user-attachments/assets/83ee9acf-c271-42f5-9bdf-820e5a8c42a8)
+
+![WhatsApp Image 2025-03-02 at 10 10 09_8202c388](https://github.com/user-attachments/assets/db6926c4-ac87-450f-9b47-72994fa236ab)
+
+NOR Gate
+
+![WhatsApp Image 2025-03-02 at 10 10 09_b5ab12bd](https://github.com/user-attachments/assets/5de8e6c6-2eff-405e-9bbd-088f9119666a)
+
+![WhatsApp Image 2025-03-02 at 10 10 10_e65067a7](https://github.com/user-attachments/assets/52b2c6cf-13c3-41fe-b2fa-e82edc02b870)
+
+
  
 # Procedure:
 Setup the PLC Programming Environment:
@@ -79,6 +95,66 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+
+AND Gate
+
+![Screenshot 2025-02-21 153838](https://github.com/user-attachments/assets/22edf86b-00d7-441c-9caa-21fee7ac8e19)
+
+![Screenshot 2025-02-21 153856](https://github.com/user-attachments/assets/265c63fa-45eb-40b5-a78a-3d8551bb147a)
+
+![EX 1 (2)](https://github.com/user-attachments/assets/c4ebab4c-cdc2-47bc-86a4-ddf1e8ed5a13)
+
+![EX 1](https://github.com/user-attachments/assets/37ea8df7-3391-4342-b881-2ee2e6045abc)
+
+OR Gate
+
+![Screenshot 2025-02-21 154606](https://github.com/user-attachments/assets/a51c7f82-9162-4a17-b5b1-82228d966452)
+
+![Screenshot 2025-02-21 154536](https://github.com/user-attachments/assets/42e8fbf0-ce2b-441b-b444-c22f74934e40)
+
+![Screenshot 2025-02-21 154510](https://github.com/user-attachments/assets/5054098c-93ca-4c99-9329-bcc29affb09f)
+
+![Screenshot 2025-02-21 154524](https://github.com/user-attachments/assets/dcfc2e87-20d5-4f4e-b435-03697c834199)
+
+XOR Gate
+
+![Screenshot 2025-02-21 155505](https://github.com/user-attachments/assets/8a02836f-c641-41f4-b6df-01ea2b2eaab5)
+
+![Screenshot 2025-02-21 155519](https://github.com/user-attachments/assets/a64730f8-b8af-464e-8ccf-73cec7466449)
+
+![Screenshot 2025-02-21 155533](https://github.com/user-attachments/assets/6b50c549-352e-41ef-b4c4-de462cde51ae)
+
+![Screenshot 2025-02-21 155639](https://github.com/user-attachments/assets/9a9abe88-8a91-4f49-84aa-5a637e8cbce9)
+
+NOR Gate
+
+![Screenshot 2025-02-21 160345](https://github.com/user-attachments/assets/c0472d36-ca4c-4062-84e4-65744917a003)
+
+![Screenshot 2025-02-21 160345](https://github.com/user-attachments/assets/d0a367e5-6a1b-45ac-bc36-4255068074f8)
+
+![Screenshot 2025-02-21 160258](https://github.com/user-attachments/assets/a3f7c306-cdf4-47ae-9aa1-a59006958df8)
+
+![Screenshot 2025-02-21 160328](https://github.com/user-attachments/assets/988b05c5-128e-4cff-adac-3632b89164b7)
+
+NAND Gate
+
+![Screenshot 2025-03-02 103426](https://github.com/user-attachments/assets/a3b528db-fc39-4236-8e14-b61d4bec500d)
+
+![Screenshot 2025-02-21 160535](https://github.com/user-attachments/assets/ed117308-49f2-463c-ba0b-a0607bb30f06)
+
+![Screenshot 2025-03-02 103443](https://github.com/user-attachments/assets/baa31a94-ea55-4448-84b2-d69741f41ea9)
+
+![Screenshot 2025-02-21 160624](https://github.com/user-attachments/assets/f049bb13-f209-4d6e-87b9-c6e20920f954)
+
+NOT Gate
+
+![Screenshot 2025-03-02 103443](https://github.com/user-attachments/assets/c4f028d3-aaaa-414f-a323-04401d7dc571)
+
+![Screenshot 2025-03-02 103803](https://github.com/user-attachments/assets/0c9a8c66-ac6b-445c-9f2b-5aa8858d6563)
+
+![Screenshot 2025-03-02 103816](https://github.com/user-attachments/assets/4c5e9108-6ca7-4e9b-b3ab-c47ba067bb0c)
+
+![Screenshot 2025-03-02 103829](https://github.com/user-attachments/assets/94aa70f2-f47f-4dc5-8c87-5555ab1d483d)
 
 
 #Results:
