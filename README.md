@@ -58,9 +58,9 @@ Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 
 ![WhatsApp Image 2025-03-02 at 10 10 09_8202c388](https://github.com/user-attachments/assets/db6926c4-ac87-450f-9b47-72994fa236ab)
 
-NOR Gate
-
 ![WhatsApp Image 2025-03-02 at 10 10 09_b5ab12bd](https://github.com/user-attachments/assets/5de8e6c6-2eff-405e-9bbd-088f9119666a)
+
+NOR Gate
 
 ![WhatsApp Image 2025-03-02 at 10 10 10_e65067a7](https://github.com/user-attachments/assets/52b2c6cf-13c3-41fe-b2fa-e82edc02b870)
 
@@ -140,7 +140,7 @@ NAND Gate
 
 ![Screenshot 2025-03-02 103426](https://github.com/user-attachments/assets/a3b528db-fc39-4236-8e14-b61d4bec500d)
 
-![Screenshot 2025-02-21 160535](https://github.com/user-attachments/assets/ed117308-49f2-463c-ba0b-a0607bb30f06)
+![Screenshot 2025-02-21 160535](https://github.com/user-attachments/assets/24196a56-42dd-49dc-a7d8-6ddf777f4434)
 
 ![Screenshot 2025-03-02 103443](https://github.com/user-attachments/assets/baa31a94-ea55-4448-84b2-d69741f41ea9)
 
